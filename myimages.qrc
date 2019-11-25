@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>eagle_logo.jpg</file>
+        <file>eagle_logo.png</file>
+    </qresource>
+</RCC>
